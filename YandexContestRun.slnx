@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ContestTests/ContestTests.csproj" />
+  <Project Path="YandexContestRun/YandexContestRun.csproj" />
+  <Project Path="YnadexProblemBPrice/YnadexProblemBPrice.csproj" Id="5c0513be-11c5-4159-aff0-c8db79ab60b5" />
+</Solution>
